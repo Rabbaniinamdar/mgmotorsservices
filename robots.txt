@@ -1,0 +1,5 @@
+# MG MOTORS SERVICES - robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://mgmotors.in/sitemap.xml
